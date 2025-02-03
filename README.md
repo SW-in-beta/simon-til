@@ -4,7 +4,7 @@
 
 ### [2월 첫째주, 1주차]
 
-24.02.03 Tail Recursion(Wikipedia https://en.wikipedia.org/wiki/Tail_call)
+24.02.03 Tail Recursion(Wikipedia https://en.wikipedia.org/wiki/Tail_call)
 - 마지막으로 return 되는 값이 subroutine의 결과여야만 Tail Recursion
  - ex) return fibonacci(n-1) * n -> 마지막으로 수행되는 연산이 *니까 Tail Recursion이 아니다.
 - 왜 사용하느냐? -> Recursion을 사용하면 호출을 할 때 마다 스택 메모리에 쌓이므로 메모리 소비가 심하다.
