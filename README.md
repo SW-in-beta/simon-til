@@ -15,3 +15,6 @@
 #### 25.02.05
 - Numpy copy/view
 - Pandas 복습
+
+#### 25.02.06
+- Numpy, Pandas 문제풀기
