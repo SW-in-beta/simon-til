@@ -18,3 +18,6 @@
 
 #### 25.02.06
 - Numpy, Pandas 문제풀기
+
+#### 25.02.07
+- Pandas의 DataFrame을 시각화하기 -> Matplotlib을 중심으로
