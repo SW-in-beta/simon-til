@@ -21,3 +21,15 @@
 
 #### 25.02.07
 - Pandas의 DataFrame을 시각화하기 -> Matplotlib을 중심으로
+
+#### 25.02.08
+- 선형대수 : 대수구조에 대한 이해
+
+
+### [2월 둘째주, 2주차]
+
+#### 25.02.10
+- 정형 데이터와 비정형 데이터
+- Matplotlib을 활용한 Data Visualization(Line/Bar/Box/Scatter Plot, Histogram etc.)
+- Seaborn을 활용한 Data Visualization
+- 각종 데이터 유형 정리
