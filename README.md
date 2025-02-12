@@ -33,3 +33,10 @@
 - Matplotlib을 활용한 Data Visualization(Line/Bar/Box/Scatter Plot, Histogram etc.)
 - Seaborn을 활용한 Data Visualization
 - 각종 데이터 유형 정리
+
+#### 25.02.11
+- 컨테이너와 쿠버네티스 개념 정리
+- 크램폴린 실습
+
+#### 25.02.12
+-
